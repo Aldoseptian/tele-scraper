@@ -1,7 +1,7 @@
 # tele-scraper
 • How To Install and Use  
 $ pkg install -y git python  
-$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git  
+$ git clone https://github.com/Aldoseptian/tele-scraper
 $ cd TeleGram-Scraper      
 Install requierments  
 $ python3 setup.py -i      
